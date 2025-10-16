@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=footer&text=Farewell,%20Wayfarer%20of%20the%20Starlit%20Code!&fontSize=45&fontAlign=50&fontAlignY=35&desc=Walk%20bold%20and%20debugless%20through%20the%20realms.&descAlign=50&descSize=25&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=宁姑娘，你一定想不到吧，我当初答应你练拳一百万遍，现在只差两万拳了。&fontSize=23&fontAlign=50&fontAlignY=35&desc=我宁姚喜欢的男人，一定要是全天下最厉害的剑仙，全天下！最厉害！大剑仙！&descAlign=50&descSize=23&descAlignY=65&animation=fadeIn" />
 </p>
