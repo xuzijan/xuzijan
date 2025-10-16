@@ -41,6 +41,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=facd2b2d-8b57-47b5-acd4-f70b484c58f7&theme=radical&hide_border=true&layout=compact&langs_count=22" alt="WakaTime Stats"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=xuzijan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter"/>
 </p>
 
