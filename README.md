@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/6.jpg" alt="Gallery" width="500"/>
+  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/6.jpg" alt="Gallery" width="1000"/>
 </p>
 
 <p align="center">
