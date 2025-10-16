@@ -37,10 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/1.jpg" alt="Gallery" width="200"/>
-  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/10.jpg" alt="Gallery" width="200"/>
-  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/20.jpg" alt="Gallery" width="200"/>
-  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/30.jpg" alt="Gallery" width="200"/>
+  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/6.jpg" alt="Gallery" width="500"/>
 </p>
 
 <p align="center">
