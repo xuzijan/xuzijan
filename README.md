@@ -7,6 +7,27 @@
 </p>
 
 <p align="center">
+  <a href="https://ziajiantianjiang.top/">
+    <img src="https://img.shields.io/badge/🌐_个人主页-梓一个剑🗡-4285F4?style=for-the-badge" alt="Personal Website"/>
+  </a>
+  <a href="https://blog.csdn.net/XXXXLxu">
+    <img src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=for-the-badge&logo=c&logoColor=white" alt="CSDN Blog"/>
+  </a>
+  <a href="https://space.bilibili.com/2140922955">
+    <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
+  </a>
+  <a href="https://github.com/xuzijan">
+    <img src="https://img.shields.io/badge/GitHub-我的仓库-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,php,latex,md,matlab,powershell,nodejs,nextjs,htmx,threejs,qt,anaconda,pytorch,tensorflow,opencv,mysql,docker,git,github,gitlab,githubactions,gcp,cloudflare,raspberrypi,vscode,pycharm,idea,ai,notion,obsidian,blender,ps,godot,unity,discord,linux,ubuntu&perline=14" />
+  </a>
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xuzijan&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuzijan&layout=compact&theme=radical&langs_count=8"/>
 </p>
@@ -16,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=facd2b2d-8b57-47b5-acd4-f70b484c58f7&theme=radical&hide_border=true&layout=compact&langs_count=22" alt="WakaTime Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=xuzijan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views Counter"/>
 </p>
 
 <p align="center">
