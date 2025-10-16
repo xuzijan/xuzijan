@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://ziajiantianjiang.top/">
-    <img src="https://img.shields.io/badge/🌐_个人主页-梓一个剑🗡-4285F4?style=for-the-badge" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/🌐_个人主页-紫颜天将-4285F4?style=for-the-badge" alt="Personal Website"/>
   </a>
   <a href="https://blog.csdn.net/XXXXLxu">
     <img src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=for-the-badge&logo=c&logoColor=white" alt="CSDN Blog"/>
@@ -34,6 +34,13 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuzijan&theme=dracula&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/1.jpg" alt="Gallery" width="200"/>
+  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/10.jpg" alt="Gallery" width="200"/>
+  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/20.jpg" alt="Gallery" width="200"/>
+  <img src="https://raw.githubusercontent.com/xuzijan/xuzijan/main/assets/30.jpg" alt="Gallery" width="200"/>
 </p>
 
 <p align="center">
