@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=XZJ_Official&theme=radical&hide_border=true&layout=compact&langs_count=22&ts=1719993604" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=XZJ_Official&theme=radical&hide_border=true&layout=compact&langs_count=22&ts=1719993605" alt="WakaTime Stats"/>
 </p>
 
 <p align="center">
