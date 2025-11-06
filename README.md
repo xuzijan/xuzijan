@@ -21,6 +21,11 @@
   </a>
 </p>
 
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,php,latex,md,matlab,powershell,nodejs,nextjs,htmx,threejs,qt,anaconda,pytorch,tensorflow,opencv,mysql,docker,git,github,gitlab,githubactions,gcp,cloudflare,raspberrypi,vscode,pycharm,idea,ai,notion,obsidian,blender,ps,godot,unity,discord,linux,ubuntu&perline=14" />
