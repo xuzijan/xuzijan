@@ -21,10 +21,8 @@
   </a>
 </p>
 
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://skillicons.dev">
