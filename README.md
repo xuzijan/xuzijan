@@ -1,14 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hail,%20Sage%20of%20the%20Wandering%20Realms!&fontSize=45&fontAlign=50&fontAlignY=35&desc=May%20your%20pull%20requests%20echo%20through%20eternity!&descAlign=50&descSize=25&descAlignY=65&animation=fadeIn" />
-</p>
-
-<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Zijian+Xu's+GitHub+realm%EF%BC%81" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://ziajiantianjiang.top/">
-    <img src="https://img.shields.io/badge/🌐_个人主页-紫颜天将-4285F4?style=for-the-badge" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/🌐_个人主页-子健天将-4285F4?style=for-the-badge" alt="Personal Website"/>
   </a>
   <a href="https://blog.csdn.net/XXXXLxu">
     <img src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=for-the-badge&logo=c&logoColor=white" alt="CSDN Blog"/>
