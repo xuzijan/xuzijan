@@ -27,3 +27,5 @@ jobs:
           SHOW_EDITORS: "True" # 编辑器
           SHOW_LANGUAGE_PER_REPO: "True" #  
           SYMBOL_VERSION: "2" # 设置为进度条的符
+          EXCLUDED_DIR_NAME: "node_modules,dist,build,.git,venv,__pycache__,.next,out"
+          EXCLUDE_BRANCH_REGEX: "release"
