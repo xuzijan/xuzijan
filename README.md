@@ -51,16 +51,16 @@
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JSON                     6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-Unknown Project          6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  6 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+本周没有记录到任何活动
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -76,7 +76,7 @@ ASP.NET                  1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 05/02/2026 00:59:07 UTC
+ Last Updated on 06/02/2026 00:55:57 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
